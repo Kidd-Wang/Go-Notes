@@ -10,3 +10,5 @@
 >#eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 >#brew -v
+
+2. Install Go
