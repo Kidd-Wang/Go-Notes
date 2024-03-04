@@ -1,5 +1,6 @@
 # Go-Notes
 1. Install brew
+
 !! Must use non-root account !!
 
 >#/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
