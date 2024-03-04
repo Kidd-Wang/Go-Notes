@@ -1,10 +1,11 @@
 # Go-Notes
 1. Install brew
-!! Must use non-root account !! 
-#/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+!! Must use non-root account !!
 
-#(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/$USER/.bashrc
+>#/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-#eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+>#(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/$USER/.bashrc
 
-#brew -v
+》#eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+》#brew -v
