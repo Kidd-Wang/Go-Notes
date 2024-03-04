@@ -15,10 +15,18 @@ Run the commands below:
 
 2. Install Go
 > Go to https://go.dev/doc/install
+
 > Download the latest tar file
+
 > sudo tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+
 > Run 'vim ~/.bashrc' and add below
+
 >    export PATH=$PATH:/usr/local/go/bin
+
 >    export GOPATH=/var/www/go
+
 >    export PATH=/opt/homebrew/bin/:$GOPATH/bin:$PATH
-> Run 'source ~/.bashrc' to apply 
+
+> Run 'source ~/.bashrc' to apply
+
